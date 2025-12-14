@@ -1,3 +1,5 @@
 # introduction to c++  
 c++ is a type of programming laguage which is use to give intructions to machines, produce games etc.
-## c++ syntax
+## c++ syntax  
+include<stdio.h>
+usingnamespace (iostream)
